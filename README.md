@@ -1,4 +1,7 @@
 # Custom Chess Game
+
+## ![Screenshot_20240613_123455](https://github.com/khageshpatil/Custom-chess/assets/137763256/65bcc340-e6ff-4263-9399-6c98571b5d75)
+
 Welcome to the Custom Chess Game repository!
 This project implements a real-time multiplayer chess game using Socket.io for WebSocket communication, and the chess.js library for game logic. The game allows two players to play chess against each other and also supports spectators.
 
@@ -138,6 +141,8 @@ Navigate to:
 http://localhost:3000
 ```
 Enjoy playing chess with your friends!
+
+![Screenshot_20240613_122257](https://github.com/khageshpatil/Custom-chess/assets/137763256/0282cb0b-7cc3-43b0-8772-b78a8678cd84)
 
 # Contributing
 Feel free to fork this repository and submit pull requests. Any contributions are welcome!
